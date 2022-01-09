@@ -1,5 +1,5 @@
 ## Olá sou Mateus Tarouco, desenvolvedor Front End <span style="color:red">Angular</span> na EvoOne!
-working ong :metal: <a href="https://evocities.com.br/"  target="_blank">Evocities</a>
+working on :metal: <a href="https://evocities.com.br/"  target="_blank">Evocities</a>
 ## favorite Song <a href="https://www.youtube.com/watch?v=SYM-RJwSGQ8" target="_blank">Tove Lo</a>
 <div align="center">
   <a href="https://github.com/mateustarouco" >
