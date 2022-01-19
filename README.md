@@ -16,4 +16,7 @@
 <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width='50px' src="https://iconsaws.s3.amazonaws.com/aws-brands.svg" />
+<img width='50px' src="https://iconsaws.s3.amazonaws.com/serverless_icon_132003.svg" />
+  
 
