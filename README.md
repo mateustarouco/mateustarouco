@@ -1,5 +1,5 @@
 ## Olá sou Mateus Tarouco, desenvolvedor Front End <span style="color:red">Angular</span> na EvoOne!
-:seedling: :coffe:Working on <a href="https://evocities.com.br/"  target="_blank">Evocities</a></br>
+:seedling: Working on <a href="https://evocities.com.br/"  target="_blank">Evocities</a></br></br>
 :writing_hand: Studying  <a href="https://www.serverless.com/framework/docs"  target="_blank">Serverless</a> & <a href="https://docs.python.org/3/"  target="_blank">:snake: Python</a>
 <div align="center">
   <a href="https://github.com/mateustarouco" >
