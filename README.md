@@ -1,5 +1,5 @@
 ## Olá sou Mateus Tarouco, desenvolvedor Front End <span style="color:red">Angular</span> na EvoOne!
-:seedling: Working on <a href="https://evocities.com.br/"  target="_blank">Evocities</a></br>
+:seedling: Working on <a href="https://evocities.com.br/"  target="_blank">Evocities</a></br><span> EvoCondo</span
 :writing_hand: Studying  <a href="https://www.serverless.com/framework/docs"  target="_blank">Serverless</a> & <a href="https://docs.python.org/3/"  target="_blank">:snake: Python</a><br><br>
 <div align="center">
   <a href="https://github.com/mateustarouco" >
@@ -13,6 +13,7 @@
 <img height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 <img height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img height='30px' src="https://iconsaws.s3.amazonaws.com/aws-brands.svg" />
