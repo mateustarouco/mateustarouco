@@ -19,4 +19,4 @@
 <b> - </b> <img height='30px' style='padding-left: 25px' src="https://iconsaws.s3.amazonaws.com/aws-brands.svg" />
 <b> - </b> <img height='27px' style='padding-left: 25px' src="https://iconsaws.s3.amazonaws.com/serverless_icon_132003.svg" />
   
-
+<div style="padding-left: 20px; width: 20px; height: 20px"> t</div>
