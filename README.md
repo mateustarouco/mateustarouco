@@ -5,7 +5,7 @@
   <a href="https://github.com/mateustarouco" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateustarouco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustarouco&layout=compact&langs_count=7&theme=dracula"/>
-</div><br>
+</div><br></a>
 <b> - </b> <img height='30px' style='padding-left: 25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <b> - </b> <img height='30px' style='padding-left: 25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <b> - </b> <img height='30px' style='padding-left: 25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -18,5 +18,3 @@
 <b> - </b> <img height='30px' style='padding-left: 25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <b> - </b> <img height='30px' style='padding-left: 25px' src="https://iconsaws.s3.amazonaws.com/aws-brands.svg" />
 <b> - </b> <img height='27px' style='padding-left: 25px' src="https://iconsaws.s3.amazonaws.com/serverless_icon_132003.svg" />
-  
-<div style="padding-left: 20px; width: 20px; height: 20px; background: red"> t</div>
