@@ -1,4 +1,4 @@
-## Olá sou Mateus Tarouco, desenvolvedor Front End <span style="color:red">Angular</span> na EvoOne!
+## Olá sou Mateus Tarouco, desenvolvedor Full Stack <span style="color:red">Angular</span> na EvoOne!
 :seedling: Working on <a href="#"  target="_blank">EvoCondo</a><br>
 :writing_hand: Studying <b>Serverless Application Model</b> & <a href="https://docs.python.org/3/"  target="_blank">:snake: Python</a><br><br>
 <div align="center">
