@@ -2,7 +2,7 @@
 :seedling: Working on <a href="#"  target="_blank">EvoCondo</a><br>
 :writing_hand: Studying <b>Serverless Application Model</b> & <a href="https://docs.python.org/3/"  target="_blank">:snake: Python</a><br><br>
 
-acesse meu curriculo clicando <a href="https://curriculomateustarouco.web.app/" target="_blank">Aqui</a>
+acesse meu curriculo clicando <a href="https://curriculomateustarouco.web.app/" target="_blank">Aqui</a> :point_left:
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateustarouco&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
